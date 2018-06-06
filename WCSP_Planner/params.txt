@@ -1,0 +1,6 @@
+number of generations: 8
+number of bacteria: 3
+number of clones: 3
+mutation segment length: 1
+number of infections: 1
+infection segment length: 1
