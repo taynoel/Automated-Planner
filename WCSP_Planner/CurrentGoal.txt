@@ -1,0 +1,24 @@
+(=> (> temp 28 ) (or f AC ));
+(=> AC (= w false ));
+(=> (> temp 32 ) AC );
+(= t1 3);
+(= 2 (+ l3 (+ l2 l )  ) );
+(>= 1 (+ AC f ));
+(= l true);
+(= l2 true);
+(not(= l l2 ));
+//
+(=> (= userst 1)(and(= music false)(= musicchan -1)));
+
+(=> (> temp 28 ) (or f AC ));
+(=> AC (= w false ));
+(=> (> temp 32 ) AC );
+(= t1 3);
+(= 2 (+ l3 (+ l2 l )  ) );
+(>= 1 (+ AC f ));
+(= musicchan Umusicchan );
+(=> (and Clothes (= weather 1 )) clothesline );
+(=> (and(> userslptm 7)(= timeofday 1))(= alrm true));
+(= 3 (+ bw1 (+ bw2 (+ bw3 (+ bw4 bw5 )))));
+
+
